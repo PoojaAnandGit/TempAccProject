@@ -8,7 +8,7 @@ packages:
   gitUsername: PoojaAnandGit
   gitBranch: main
 services:
-- serviceName: project.tempacc.integrations:abc
+- serviceName: project.tempacc.integrations:test
   packages:
   - name: TempAccProject
     version: "1.0"
